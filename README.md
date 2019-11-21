@@ -1,4 +1,4 @@
-# LearningPython
+# Learning Python
 Compilation of projects I do to learn Python. Based on [this.](https://github.com/karan/Projects)
 ## List of Projects
 1. Find Cost of Tile to Cover W x H Floor - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
