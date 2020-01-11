@@ -46,9 +46,3 @@ key to grade the quizzes.
 18. Sorting - Implement two types of sorting algorithms: Merge sort and bubble sort.
 
 19. Binary to Decimal and Back Converter - Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
-
-20. Graphical Text Editor - Notepad style application that can open, edit, and save text documents. Add syntax highlighting and other features.
-
-21. Graphical Calculator
-
-22. Any game
